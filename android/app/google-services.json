@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "691316487683",
+    "project_id": "appburger-86a54",
+    "storage_bucket": "appburger-86a54.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:691316487683:android:a8f8a28537eb884a63c036",
+        "android_client_info": {
+          "package_name": "com.example.burgerking"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqIjCrxnZPSX-FXBJfcn6xmpHl45mW27g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
